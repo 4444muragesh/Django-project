@@ -10,4 +10,4 @@ Run this App using ->
 ->python manage.py runserver
 Admin Username:kumar@gmail.com
 password:123456
-you can tables in db browser of sqlite.
+you can see tables in db browser of sqlite.
